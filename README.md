@@ -98,10 +98,12 @@ View PDF
 
 
 🧾 Data Logging Example
-Time (ms)	mag (g)	rms (g)
-1248	0.021	0.009
-1312	0.035	0.011
-1376	0.821	0.805
+| Time (ms) | mag (g) | rms (g) |
+|------------|----------|----------|
+| 1248       | 0.021    | 0.009    |
+| 1312       | 0.035    | 0.011    |
+| 1376       | 0.821    | 0.805    |
+
 🧰 Tools & Technologies
 
 Arduino IDE
